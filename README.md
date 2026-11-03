@@ -1,4 +1,4 @@
-# GTA III Peds Run To Car
+# GTA III Peds Run To Car Mod
 
 This quality of life mod makes NPCs who want to get into cars run instead of walking slowly. This speeds up certain missions where you would otherwise have to wait for an NPC to slowly walk toward a vehicle.
 
